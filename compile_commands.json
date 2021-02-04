@@ -27,7 +27,7 @@
             "bin/auto.c.o",
             "src\\auto.c"
         ],
-        "directory": "C:\\Users\\Admin\\Documents\\Debug",
+        "directory": "C:\\Users\\mekhi\\Documents\\Debug",
         "file": "src\\auto.c"
     },
     {
@@ -58,7 +58,7 @@
             "bin/init.c.o",
             "src\\init.c"
         ],
-        "directory": "C:\\Users\\Admin\\Documents\\Debug",
+        "directory": "C:\\Users\\mekhi\\Documents\\Debug",
         "file": "src\\init.c"
     },
     {
@@ -89,7 +89,7 @@
             "bin/opcontrol.c.o",
             "src\\opcontrol.c"
         ],
-        "directory": "C:\\Users\\Admin\\Documents\\Debug",
+        "directory": "C:\\Users\\mekhi\\Documents\\Debug",
         "file": "src\\opcontrol.c"
     }
 ]
